@@ -1,0 +1,3 @@
+aiida-core~=2.6
+aiida-quantumespresso~=4.7
+aiida-submission-controller==0.3.0
